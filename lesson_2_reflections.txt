@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git needs to create the .git folder
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+working directory can be very fluid, staging area is expected working code, repo is commited working code.
+
