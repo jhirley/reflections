@@ -7,3 +7,8 @@
 
 	It allows you to have ready code pushed instead of work in progress.
 
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	branch: is a split of the code base on the same repo for { dev/feature/bugfix}
+	clone: is a copy of a repo from the web to local or local to local
+	fork: is a clone from Git repo to a new git repo ( no local )
