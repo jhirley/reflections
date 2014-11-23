@@ -1,1 +1,9 @@
-chicken and cheese puffs
+0. chicken and cheese puffs
+
+1.When would you want to use a remote repository rather than keeping all your work local?
+	to colaborate with others and to avoid famous murphy's butterfly effect being a grain of sand blows a butterfly off course, causing it to be sucked into the intake of a 747 carrying a cargo of live african rinos, the engine ceases, the plain explodes and the live african rino hurtles throught the air and lands on your laptop with the only copy of your code.
+
+2.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?  
+
+	It allows you to have ready code pushed instead of work in progress.
+
