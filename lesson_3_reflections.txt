@@ -12,3 +12,7 @@
 	branch: is a split of the code base on the same repo for { dev/feature/bugfix}
 	clone: is a copy of a repo from the web to local or local to local
 	fork: is a clone from Git repo to a new git repo ( no local )
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+	
+	changes and versions can be worked on.
