@@ -1,8 +1,23 @@
-What happens when you initialize a repository? Why do you need to do it?
+1.What happens when you initialize a repository? Why do you need to do it?
 
 Git needs to create the .git folder
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 working directory can be very fluid, staging area is expected working code, repo is commited working code.
 
+3. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+adding features or offshoots of the original  ,  Libre_office is a branch of openoffice
+
+4. How do the diagrams help you visualize the branch structure?
+
+i allow you to see the break points in the master branch 
+
+5.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All of the adds and deletes are added to one file.  To show the joining of all the lines of code
+
+6. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  Pro, easy automatic intergration for two code sets. Con, Conflicts and possible unintended glitches aka gremlins	
